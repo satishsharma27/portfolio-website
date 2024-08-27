@@ -386,7 +386,7 @@ nav .fa-solid{
 
 @media only screen and (max-width:600px){
 	#header{
-		background-image: url("C:/Users/sharm/Desktop/portfolio learning website/phone-background.png");
+		background-image: url(./assets/mobilephotosize.jpeg);
 	}
 	.header-text{
 		margin-top: 100%;
